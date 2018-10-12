@@ -1,2 +1,2 @@
-# CECS301_Lab4
+# CECS301
 October/2018
